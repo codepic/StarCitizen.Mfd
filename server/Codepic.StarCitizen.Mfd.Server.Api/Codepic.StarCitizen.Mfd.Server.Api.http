@@ -1,0 +1,6 @@
+@Codepic.StarCitizen.Mfd.Server.Api_HostAddress = http://localhost:5190
+
+GET {{Codepic.StarCitizen.Mfd.Server.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
